@@ -1,0 +1,19 @@
+.matrix {
+    background-color: grey;
+    table-layout: fixed;
+}
+
+.matrix-elem td, th {
+    padding: 10px 10px;
+}
+
+.matrix-elem input{
+    text-align: center;
+    background-color: blue;
+    width: 20px;
+    height: 20px;
+}
+
+.sort-button {
+    text-align: center;
+}
