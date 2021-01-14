@@ -1,0 +1,18 @@
+
+
+table {
+    width: 800px; 
+    border: 2px solid black; 
+    margin: auto;
+}
+
+td {
+    text-align: center; 
+   }
+
+
+th,td {
+    border: 2px solid black;
+    padding: 40px 40px;
+}
+
